@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Gauri Tripathi, a passionate and experienced p
 
 - 💬 **Ask Me About:** Feel free to reach out if you need advice or have questions about data analytics, machine learning algorithms, data visualization, or any related topics.
 
-- 📫 **How to Reach Me:** You can contact me via my LinkedIn profile or drop an email at [gauritripathi2002@example.com](mailto:gauritripathi2002@example.com).
+- 📫 **How to Reach Me:** You can contact me via my LinkedIn profile or drop an email at [gauritripathi2002@example.com](mailto:gauritripathi2002@gmail.com).
 
 
 
